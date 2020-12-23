@@ -1,0 +1,39 @@
+@media all and (max-width: 670px) {
+    .body-contents {
+      width: 100%;
+      text-align: left;
+    }
+    footer {
+      text-align: center;
+    }
+    .Image {
+      font-size: 30px;
+      line-height: 36px;
+      background-size: cover;
+    }
+    .body-contents h2{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .body-contents p {
+      font-size: 14px;
+      line-height: 20px;
+    }
+    .button {
+        width: 100%;
+    }
+    .linkedin {
+        width: 45%;
+        display: inline-block;
+    }
+    .github {
+        width: 45%;
+        display: inline-block;
+    }
+    .bottom h2 {
+        font-size: 16px;
+    }
+    .project-title {
+        font-size: 15px;
+    }
+}
